@@ -3,7 +3,7 @@ services:
     image: mariadb:10.11
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: 32970559
+      MYSQL_ROOT_PASSWORD: Gui32970559!*
 
   phpmyadmin:
     image: phpmyadmin
